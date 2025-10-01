@@ -1,0 +1,7 @@
+{
+  "name": "Quickr - Grocery Delivery",
+  "description": "A web application that replicates the Blinkit grocery delivery service, allowing local retailers to sell their goods online for quick delivery.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
